@@ -8,4 +8,4 @@ def check_sc(text: str):
 
 
 
-print(check_sc('hello world\\\r'))
+print(check_sc('hello\\\r world'))
