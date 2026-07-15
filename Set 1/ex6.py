@@ -13,5 +13,5 @@ def camel_to_snake(text):
     return string_converted
 
 
-print(camel_to_snake('UpperCamelCase'))
+print(camel_to_snake('AnaMaria'))
 
